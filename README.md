@@ -4,12 +4,11 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FFD1,100:0096FF&height=180&section=header&text=Hey%2C+I'm+Saiful+👋&fontSize=50&fontColor=ffffff&fontAlignY=40&animation=fadeIn"/>
 
 <!-- Typing Animation -->
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&pause=1000&color=00FFD1&center=true&vCenter=true&width=750&lines=Senior+Technical+Support+SME+%40+Granicus;ITSM+%7C+Service+Desk+%7C+Customer+Success;5%2B+Years+of+Solving+Complex+Problems;Turning+Chaos+into+SLA+Compliance+✅" alt="Typing SVG" />
-</a>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FFD1&center=true&vCenter=true&width=750&lines=Senior+Technical+Support+SME+%40+Granicus;ITSM+%7C+Service+Desk+%7C+Customer+Success;5%2B+Years+of+Solving+Complex+Problems;Turning+Chaos+into+SLA+Compliance+✅" alt="Typing SVG" />
 
 <br/><br/>
 
+<!-- Badges -->
 ![Profile Views](https://komarev.com/ghpvc/?username=saif4u&color=00FFD1&style=for-the-badge&label=PROFILE+VIEWS)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/saiful-islam1998)
 [![Email](https://img.shields.io/badge/Gmail-Email+Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:saif15111998@gmail.com)
@@ -19,7 +18,7 @@
 
 ---
 
-<img align="right" alt="Support GIF" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" alt="Support GIF" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
 
 ### 🙋‍♂️ Who Am I?
 
@@ -63,9 +62,10 @@ Status    : Available for New Opportunities 🟢
 ![ServiceNow](https://img.shields.io/badge/ServiceNow-009BDE?style=for-the-badge&logo=servicenow&logoColor=white)
 ![Confluence](https://img.shields.io/badge/Confluence-172B4D?style=for-the-badge&logo=confluence&logoColor=white)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![Microsoft 365](https://img.shields.io/badge/Microsoft_365-D83B01?style=for-the-badge&logo=microsoftoffice&logoColor=white)
 ![SendGrid](https://img.shields.io/badge/SendGrid-1A82E2?style=for-the-badge&logo=sendgrid&logoColor=white)
+![Kayako](https://img.shields.io/badge/Kayako-FF6B35?style=for-the-badge&logoColor=white)
 
 </div>
 
