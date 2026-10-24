@@ -2,7 +2,7 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:00FFD1,100:0096FF&height=180&section=header&text=Hey%2C+I'm+Saiful+%F0%9F%91%8B&fontSize=50&fontColor=ffffff&fontAlignY=40&animation=fadeIn"/>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FFD1&center=true&vCenter=true&width=750&lines=Senior+Technical+Support+SME+%40+Granicus;ITSM+%7C+Service+Desk+%7C+Customer+Success;5%2B+Years+Solving+Complex+Problems;98%25+SLA+%7C+96%25+CSAT+%7C+92%25+Retention" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&pause=1000&color=00FFD1&center=true&vCenter=true&width=750&lines=Technical+Support+Specialist+%28Tier+2%29+%40+Granicus;ITSM+%7C+Service+Desk+%7C+Customer+Success;5%2B+Years+Solving+Complex+Problems;98%25+SLA+%7C+96%25+CSAT+%7C+92%25+Retention" alt="Typing SVG" />
 
 <br/><br/>
 
@@ -19,7 +19,7 @@
 
 ```yaml
 Name      : Saiful Islam
-Role      : Senior TSR / SME @ Granicus
+Role      : Technical Support Specialist (Tier 2) @ Granicus
 Location  : Coimbatore, India 🇮🇳
 Experience: 5+ Years
 Focus     : ITSM | SaaS | Customer Success
@@ -68,14 +68,14 @@ Status    : Available for New Opportunities 🟢
 
 ```
 🏢 Granicus                          🏢 Namecheap Inc.
-├── 🌟 Senior TSR / SME              ├── 🎓 Technical Support L2 & Trainer
-│   Oct 2025 – Present               │   Jun 2022 – May 2024
+├── 🌟 Tech Support Specialist T2     ├── 🎓 Trainer & Technical Support L2
+│   Oct 2026 – Present               │   Jun 2022 – May 2024
 │                                    │
-└── 💼 Technical Support Rep         ├── 🔧 Technical Support L2
-    Jan 2025 – Sep 2025              │   Sep 2021 – May 2022
-                                     │
-                                     └── 🚀 Technical Support L1
-                                         Sep 2020 – Aug 2021
+├── ⭐ Senior TSR / SME              ├── 🔧 Technical Support L2
+│   Oct 2025 – Sep 2026              │   Sep 2021 – May 2022
+│                                    │
+└── 💼 Technical Support Rep         └── 🚀 Technical Support L1
+    Jan 2025 – Sep 2025                  Sep 2020 – Aug 2021
 ```
 
 ---
